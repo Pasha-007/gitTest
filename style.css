@@ -1,4 +1,5 @@
 p {
     font-size: 24pt;
     color: brown;
+    border-bottom: 2px solid blue;
 }
